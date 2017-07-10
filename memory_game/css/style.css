@@ -2,7 +2,9 @@ body {
 	text-align: center;
 	margin: 0;
 }
-
+.white {
+	color: white;
+}
 h1 {
 	font-family: "Raleway";
 	color: #0D2C40;
@@ -92,4 +94,11 @@ footer {
 
 a:hover {
 	border-color: white;
+}
+
+.button {
+	margin: -40px 50px 0 0;
+	background: white;
+	float: right;
+	font-family: "Raleway";
 }
